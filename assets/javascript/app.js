@@ -27,6 +27,8 @@ $(document).ready(function () {
         $('#email').val('');
         $('#message').val('');
 
+        alert('Thank you! your message has been sent');
+
     });
 
 });
