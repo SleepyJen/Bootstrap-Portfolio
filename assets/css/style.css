@@ -1,0 +1,12 @@
+body{
+    position: relative;
+    background: url('../images/philipp-berndt-5i0GnoTTjSE-unsplash.jpg');
+    background-size: cover;
+    background-position: center;
+    /*background-repeat: no-repeat;*/
+}
+
+main{
+    min-height: 80px;
+    margin-bottom: 100px;
+}
